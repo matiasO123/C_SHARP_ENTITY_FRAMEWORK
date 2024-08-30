@@ -1,0 +1,6 @@
+@EF_BD_First_HostAddress = http://localhost:5178
+
+GET {{EF_BD_First_HostAddress}}/persona/
+Accept: application/json
+
+###

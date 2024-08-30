@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|d:\\portfolio\\entity_framework\\entity_framework\\ef_code_first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|solutionrelative:ef_code_first\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|d:\\portfolio\\entity_framework\\entity_framework\\ef_code_first\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|solutionrelative:ef_code_first\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|d:\\portfolio\\entity_framework\\entity_framework\\ef_code_first\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|solutionrelative:ef_code_first\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|d:\\portfolio\\entity_framework\\entity_framework\\ef_code_first\\models\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B949A3A9-718C-497D-9552-B5BC3E711D21}|Ef_code_first\\Ef_code_first.csproj|solutionrelative:ef_code_first\\models\\workingexperience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Ef_code_first\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Ef_code_first\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA8wAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:34:51.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Ef_code_first\\Controllers\\TestController.cs",
+              "ToolTip": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Ef_code_first\\Controllers\\TestController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwDcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:27:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingExperience.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Models\\WorkingExperience.cs",
+              "RelativeDocumentMoniker": "Ef_code_first\\Models\\WorkingExperience.cs",
+              "ToolTip": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Models\\WorkingExperience.cs",
+              "RelativeToolTip": "Ef_code_first\\Models\\WorkingExperience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:51:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Ef_code_first\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Portfolio\\Entity_Framework\\Entity_Framework\\Ef_code_first\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Ef_code_first\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwDoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T15:05:16.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
